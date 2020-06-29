@@ -1,0 +1,65 @@
+[
+    { 
+    "id": 1,
+    "name": "Yhon Sanchez",  
+    "username": "yhons", 
+    "email": "yhons@test.com"
+    },
+    { 
+    "id": 2, 
+    "name": "Frank Hunter", 
+    "username": "frankh", 
+    "email": "frankh@test.com"
+    },
+    { 
+    "id": 3, 
+    "name": "Andy Gonzalez",  
+    "username": "andyg", 
+    "email": "andyg@test.com"
+    },
+    { 
+    "id": 4, 
+    "name": "Andrea Perez", 
+    "username": "andreap", 
+    "email": "andreap@test.com"
+    },
+    { 
+    "id": 5, 
+    "name": "Charlie Espinoza",  
+    "username": "charliee", 
+    "email": "charliee@test.com"
+    },
+    { 
+    "id": 6, 
+    "name": "Paul Gear", 
+    "username": "paulg",  
+    "email": "paulg@test.com"
+    },
+    { 
+    "id": 7, 
+    "name": "Pablo Vargas",  
+    "username": "pablav", 
+    "email": "pablav@test.com"
+    },
+    { 
+    "id": 8, 
+    "name": "David Jones", 
+    "username": "davidj", 
+    "email": "davidj@test.com"
+    },
+    { 
+    "id": 9, 
+    "name": "Karen Jones", 
+    "username": "karenj", 
+    "email": "karenj@test.com"
+    },
+    { 
+    "id": 10, 
+    "name": "Amanda Alvarez", 
+    "username": "amanadaa", 
+    "email": "amanadaa@test.com"
+    }
+    ],
+  "profile": {
+    "name": "typicode"
+      }
