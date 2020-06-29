@@ -1,4 +1,6 @@
-[
+{
+    
+"users": [
     { 
     "id": 1,
     "name": "Yhon Sanchez",  
@@ -63,3 +65,4 @@
   "profile": {
     "name": "typicode"
       }
+}
